@@ -1,0 +1,27 @@
+{
+  "name": "frc-detect-element-resize",
+  "version": "1.0.0",
+  "description": "detect element resize ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-Long/frc-detect-element-resize.git"
+  },
+  "keywords": [
+    "detect",
+    "element",
+    "resize"
+  ],
+  "author": "Paul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paul-Long/frc-detect-element-resize/issues"
+  },
+  "homepage": "https://github.com/Paul-Long/frc-detect-element-resize#readme",
+  "devDependencies": {
+    "prettier": "^1.15.3"
+  }
+}

@@ -1,2 +1,2 @@
-# frc-detect-element-resize
+# Detect-Element-Resize
 detect element resize
